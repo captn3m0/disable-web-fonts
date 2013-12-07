@@ -1,0 +1,16 @@
+{
+  "name": "Disable Custom Fonts",
+  "description":"Disables use of custom fonts on all websites",
+  "manifest_version": 2,
+  "version": "0.1",
+  "permissions": [
+    "webRequest",
+    "<all_urls>",
+    "webRequestBlocking"
+  ],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "author":"Abhay Rana",
+  "icons": { "128": "icon.png" }
+}
