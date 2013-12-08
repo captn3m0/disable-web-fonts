@@ -1,7 +1,7 @@
-disable-custom-fonts
+disable-web-fonts
 ====================
 
-Disables Custom Fonts across all website. Saves Bandwidth. This extension by itself will not save you much bandwidth. It is meant to be used alongside other solutions that block other things. It was born because while Chrome offers image and even script level blocking, there is no way to block any fonts from loading via `font-face` in css.
+Disables Web Fonts across all website. Saves Bandwidth. This extension by itself will not save you much bandwidth. It is meant to be used alongside other solutions that block other things. It was born because while Chrome offers image and even script level blocking, there is no way to block web fonts from loading via `font-face` in css.
 
 ##Installation
 Install from the [Chrome Web Store](https://chrome.google.com/webstore/detail/olmabeadgbpmhllgdkemfdnmkngkbkeg)
