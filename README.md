@@ -16,18 +16,14 @@ Go to `chrome://settings/content#content` and change the following:
 
 As an alternative to complete JavaScript blocking, I recommend using "Ghostery" or "Disconnect" extensions that would block all trackers, while allowing you to run important bits of javascript.
 
-Needless to say, do not forget to install AdBlock as well.
+Needless to say, do not forget to install [uBlock][ublock] as well.
 
 ##Author Information
 - Abhay Rana (<me@captnemo.in>)
 
-## Donating
-Support this project and [others by captn3m0][gittip] via [gittip][].
-
-[![Support via Gittip][gittip-badge]][gittip]
-
-[gittip-badge]: https://rawgithub.com/twolfson/gittip-badge/master/dist/gittip.png
-[gittip]: https://www.gittip.com/captn3m0/
-
 ##Licence
 Licenced under the [MIT Licence](http://nemo.mit-license.org/).
+
+[ublock]: https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en
+[gittip-badge]: https://rawgithub.com/twolfson/gittip-badge/master/dist/gittip.png
+[gittip]: https://www.gittip.com/captn3m0/
