@@ -1,16 +1,12 @@
 {
   "name": "Disable Web Fonts",
-  "description":"Disables use of custom web fonts on all websites",
+  "description": "Disables use of custom web fonts on all websites",
   "manifest_version": 2,
-  "version": "0.3",
-  "permissions": [
-    "webRequest",
-    "<all_urls>",
-    "webRequestBlocking"
-  ],
+  "version": "0.4",
+  "permissions": ["webRequest", "<all_urls>", "webRequestBlocking"],
   "background": {
     "scripts": ["background.js"]
   },
-  "author":"Abhay Rana",
+  "author": "Nemo",
   "icons": { "128": "icon.png" }
 }
