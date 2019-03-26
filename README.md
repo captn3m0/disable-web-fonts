@@ -1,5 +1,7 @@
 # disable-web-fonts
 
+![GitHub release](https://img.shields.io/github/release/captn3m0/disable-web-fonts.svg?style=social) ![Chrome Web Store](https://img.shields.io/chrome-web-store/v/olmabeadgbpmhllgdkemfdnmkngkbkeg.svg?style=social) ![Chrome Web Store Rating](https://img.shields.io/chrome-web-store/rating/olmabeadgbpmhllgdkemfdnmkngkbkeg.svg?style=social) ![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/olmabeadgbpmhllgdkemfdnmkngkbkeg.svg?style=social) ![Maintenance](https://img.shields.io/maintenance/yes/2019.svg?style=social) ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=social)
+
 Disables Web Fonts across all website. Saves Bandwidth. This extension by itself will not save you much bandwidth. It is meant to be used alongside other solutions that block other things. It was born because while Chrome offers image and even script level blocking, there is no way to block web fonts from loading via `font-face` in css.
 
 # Installation
@@ -23,5 +25,3 @@ Needless to say, do not forget to install [uBlock][ublock] as well.
 Licenced under the [MIT Licence](http://nemo.mit-license.org/).
 
 [ublock]: https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en
-[gittip-badge]: https://rawgithub.com/twolfson/gittip-badge/master/dist/gittip.png
-[gittip]: https://www.gittip.com/captn3m0/
