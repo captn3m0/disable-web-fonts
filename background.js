@@ -6,7 +6,7 @@ function parseURL(url){
 
 function isFontFile(filename){
   var extensions = [
-    '.woff', '.otf', '.ttf', '.woff2', 'eot'
+    '.woff', '.otf', '.ttf', '.woff2', '.eot'
   ];
 
   for(var i in extensions){
